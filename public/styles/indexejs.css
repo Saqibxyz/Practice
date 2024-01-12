@@ -1,0 +1,18 @@
+.row-persons{
+    padding:3rem;
+    border-top: solid #FF9843;
+    border-bottom: solid #FF9843;
+    margin-bottom: 2rem;
+    
+}
+.count{
+    color: #FF9843;
+}
+@media(max-width:768px){
+    .col-md-12{
+        padding: 2rem;
+    }
+    .col-sm-12{
+        padding: 2rem;
+    }
+}
